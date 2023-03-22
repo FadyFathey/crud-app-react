@@ -1,0 +1,64 @@
+.mainColor {
+    background-color: #802c6e;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}
+
+.navbar-nav {
+    margin-left: 80%;
+    color: white;
+
+}
+
+.cart {
+    font-size: 20px;
+
+}
+
+.cart span {
+    margin-right: 10px;
+}
+
+.cartBadge {
+    position: absolute;
+    top: -18px;
+    right: -30px;
+    background-color: cadetblue;
+}
+
+.cartTitle {
+    min-height: 120px;
+}
+
+.btn:hover {
+    background-color: #802c6e;
+
+}
+
+.cart-img {
+    width: 30%;
+}
+
+.cart-action {
+    width: 70%;
+}
+
+.cartItem {
+    margin-left: 50px;
+}
+
+.cartItems {
+    color: #802c6e;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.btn-danger {
+    margin-left: 5px;
+}
+
+.price {
+    color: #802c6e;
+}
